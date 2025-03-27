@@ -303,7 +303,7 @@ header::before {
   position: fixed;
   align-items: center;
   text-decoration: none;
-  background: linear-gradient(135deg, rgba(14, 6, 88, 0.6), rgba(0, 0, 0, 0.5));
+  background: linear-gradient(135deg, rgba(88, 108, 163 0.6), rgba(0, 0, 0, 0.5));
   width: fit-content;
   height: auto;
   border-radius: 10px;
